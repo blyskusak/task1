@@ -35,7 +35,7 @@ lang: pl
 
 collections:
   languages:
-    output: true
+    output: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
