@@ -25,9 +25,10 @@ description: >
 baseurl: "task1/"
 url: ""
 
-theme: minimal
+remote_theme: pages-themes/minimal
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 markdown: kramdown
 highlighter: rouge
