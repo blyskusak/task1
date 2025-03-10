@@ -1,6 +1,7 @@
 ---
 layout: default
 title: TOP 20 PROGRAMMING LANGUAGES
+nav: true
 ---
 ## Website is based on data scraped from tiobe.com. It shows top 20 most popular programming languages
 ## 1. Python
