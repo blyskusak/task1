@@ -26,7 +26,7 @@ baseurl: "task1/"
 url: ""
 
 #use remote theme by plugin jekyll-remote-theme
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/architect
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
