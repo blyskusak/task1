@@ -2,7 +2,6 @@
 layout: default
 title: Ada
 permalink: /languages/Ada
-nav_exclude: true
 ---
 # Ada
 
